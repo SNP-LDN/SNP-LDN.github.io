@@ -11,16 +11,16 @@ I am freshman from [University of Wisconsin - Madison](https://www.wisc.edu/). M
 
 Projects
 ======
-This is a list of projects I did, you can find more infromation in the __projects page__.
+This is a list of projects I did, you can find more infromation in the __projects__ page.
 
 - [Text_Sentiment_Prediction](https://github.com/BrianOuyangLe/Text_Sentiment_Prediction/tree/Danning)
 
 Laguages
 ======
-__Familiar:__
+###__Familiar:__
 - Java, Python, R (Rstudio)
 
-__Basic Knowledge Reserve:__
+###__Basic Knowledge Reserve:__
 - HTML(CSS), Java Script
 
 Other Skills
