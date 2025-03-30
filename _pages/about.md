@@ -17,7 +17,7 @@ This is a list of projects I did, you can find more infromation in the __project
 
 Laguages
 ------
-__<font size="5">Familiar:</font>__
+__<font size="4">Familiar:</font>__
 - Java, Python, R (Rstudio)
 
 __<font size="3">Basic Knowledge Reserve:</font>__
