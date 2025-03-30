@@ -58,6 +58,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Academic
+======
+  <ul>{% for post in site.academics reversed %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
