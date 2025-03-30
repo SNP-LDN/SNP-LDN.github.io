@@ -17,10 +17,10 @@ This is a list of projects I did, you can find more infromation in the __project
 
 Laguages
 ------
-<font size="7">Familiar:</font>
+__<font size="5">Familiar:</font>__
 - Java, Python, R (Rstudio)
 
-<font size="5">Basic Knowledge Reserve:</font>
+__<font size="3">Basic Knowledge Reserve:</font>__
 - HTML(CSS), Java Script
 
 Other Skills
