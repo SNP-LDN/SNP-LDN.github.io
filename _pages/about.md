@@ -16,11 +16,11 @@ This is a list of projects I did, you can find more infromation in the __project
 - [Text_Sentiment_Prediction](https://github.com/BrianOuyangLe/Text_Sentiment_Prediction/tree/Danning)
 
 Laguages
-======
-### __Familiar:__
+------
+<font size="3">__Familiar:__</font>
 - Java, Python, R (Rstudio)
 
-### __Basic Knowledge Reserve:__
+<font size="2">__Basic Knowledge Reserve:__</font>
 - HTML(CSS), Java Script
 
 Other Skills
