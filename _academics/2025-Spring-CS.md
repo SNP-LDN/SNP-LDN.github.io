@@ -4,7 +4,7 @@ collection: academics
 type: "Undergraduate course"
 permalink: /academics/2025-Spring-CS
 venue: "UW- Madison, Computer Science BS"
-date: 2025-01
+date: 2025-01-01
 location: "Madison, Wisconsin"
 ---
 

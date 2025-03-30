@@ -4,7 +4,7 @@ collection: academics
 type: "Undergraduate course"
 permalink: /academics/2024-Fall-CS
 venue: "UW- Madison, Computer Science BS"
-date: 2024-09
+date: 2024-09-01
 location: "Madison, Wisconsin"
 ---
 
