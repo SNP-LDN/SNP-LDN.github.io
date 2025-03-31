@@ -11,47 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Unergraduate from University of Wisconsin - Madison
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Gordon Dinning Hall, Madison, Wisconsin
+  * Culinary Assistant
+  * February 2025- Now
+    *	Serving food
+    *	Cleaning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Walmart, Eau Claire, Wisconsin
+  * Meat/Produce
+  * July 2023-June 2024
+    * Stocking 
+    *	Cleaning
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Excel, Word, and PowerPoint (with certificate)
+- Google Ads (Analytics)
+- Photoshops
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.project reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Academic
 ======
@@ -59,6 +52,6 @@ Academic
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
