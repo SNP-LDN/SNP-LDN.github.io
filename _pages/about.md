@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am freshman from [University of Wisconsin - Madison](https://www.wisc.edu/). Major in [Computer Science BS](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Data Science, Certificate](https://guide.wisc.edu/undergraduate/letters-science/statistics/data-science-certificate/).
+I am sophomore from [University of Wisconsin - Madison](https://www.wisc.edu/). Major in [Computer Science BS](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Data Science, Certificate](https://guide.wisc.edu/undergraduate/letters-science/statistics/data-science-certificate/).
 
 Projects
 ======
