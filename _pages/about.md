@@ -11,7 +11,7 @@ I am sophomore from [University of Wisconsin - Madison](https://www.wisc.edu/). 
 
 Projects
 ======
-This is a list of projects I did, you can find more infromation in the __projects__ page.
+This is a list of projects I did, you can find more infromation in the [projects](https://snp-ldn.github.io//project/) page.
 
 - [Text_Sentiment_Prediction](https://github.com/BrianOuyangLe/Text_Sentiment_Prediction/tree/Danning)
 
