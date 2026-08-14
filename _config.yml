@@ -13,9 +13,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Danning Liu"
 description              : &description "personal description"
-url                      : https://snp-ldn.github.io/ 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SNP-LDN/SNP-LDN.github.io"
+url: "https://snp-ldn.github.io"
+baseurl: "/danningliu.github.io"
+repository: "SNP-LDN/danningliu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
