@@ -16,6 +16,10 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% if page.url != "/" %}
+      {% include back-button.html %}
+    {% endif %}
+
     {{ content }}
 
     <div class="page__footer">
